@@ -1,7 +1,6 @@
 Conclusion
 
 This project helped us understand how employee attendance and productivity can be analyzed using Microsoft Excel. We organized employee data and used formulas and functions to calculate important statistics.We used sorting and filtering to identify top performers and employees with low attendance. Conditional formatting helped highlight attendance issues easily. The department-wise analysis provided a clear comparison of Development, Testing, and HR. Development showed the highest productivity, with an average of 38.2 tasks per employee. Testing also demonstrated good productivity with an average of 35.8 tasks. HR had a lower average productivity of 25.7 tasks per employee. Charts and visualizations made the data easier to understand and interpret. The heat map helped identify strengths and weaknesses across departments. The analysis showed that attendance and productivity are positively related. However, higher attendance does not always guarantee higher productivity. Employees may perform differently depending on their roles, workload, and working conditions. The results can help management make better decisions and improve work efficiency. Recognizing high performers and supporting employees with difficulties can improve overall performance. This project strengthened our Excel skills, data analysis knowledge, and interpretation abilities. Overall, employee data analysis is an effective tool for improving productivity and supporting better organizational decision-making.
-Part E – Interpretation
 
 Part E – Interpretation
 
